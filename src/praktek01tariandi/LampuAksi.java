@@ -10,5 +10,7 @@ package praktek01tariandi;
  * @author ACER-PC
  */
 public class LampuAksi {
-    
+    public static void main(String[] args) {
+         Lampu Ariandi = new Lampu();
+    }
 }
