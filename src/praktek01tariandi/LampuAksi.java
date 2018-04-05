@@ -16,5 +16,7 @@ public class LampuAksi {
          Ariandi.merk="Vilips";
          Ariandi.warna="Putih";
          Ariandi.jenis="Spiral";
+         
+         Ariandi.cetakInfo();
     }
 }
