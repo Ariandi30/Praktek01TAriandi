@@ -12,5 +12,9 @@ package praktek01tariandi;
 public class LampuAksi {
     public static void main(String[] args) {
          Lampu Ariandi = new Lampu();
+         
+         Ariandi.merk="Vilips";
+         Ariandi.warna="Putih";
+         Ariandi.jenis="Spiral";
     }
 }
